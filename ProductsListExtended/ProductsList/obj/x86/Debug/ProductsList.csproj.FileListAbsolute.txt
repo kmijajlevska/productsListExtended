@@ -1,0 +1,12 @@
+E:\FINKI\VP\Source\ProductsList\ProductsList\bin\Debug\ProductsList.exe
+E:\FINKI\VP\Source\ProductsList\ProductsList\bin\Debug\ProductsList.pdb
+E:\FINKI\VP\Source\ProductsList\ProductsList\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FINKI\VP\Source\ProductsList\ProductsList\obj\x86\Debug\ProductsList.Form1.resources
+E:\FINKI\VP\Source\ProductsList\ProductsList\obj\x86\Debug\ProductsList.Properties.Resources.resources
+E:\FINKI\VP\Source\ProductsList\ProductsList\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\FINKI\VP\Source\ProductsList\ProductsList\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\FINKI\VP\Source\ProductsList\ProductsList\obj\x86\Debug\ProductsList.exe
+E:\FINKI\VP\Source\ProductsList\ProductsList\obj\x86\Debug\ProductsList.pdb
+E:\FINKI\VP\Source\ProductsList\ProductsList\obj\x86\Debug\ProductsList.NewProduct.resources
+E:\FINKI\VP\Source\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsList.exe
+E:\FINKI\VP\Source\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsList.pdb

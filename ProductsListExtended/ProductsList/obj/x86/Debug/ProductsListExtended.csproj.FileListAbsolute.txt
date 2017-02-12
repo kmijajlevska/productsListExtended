@@ -1,0 +1,19 @@
+E:\FINKI\VP\Source\ProductsListExtended\ProductsList\bin\Debug\ProductsList.exe
+E:\FINKI\VP\Source\ProductsListExtended\ProductsList\bin\Debug\ProductsList.pdb
+E:\FINKI\VP\Source\ProductsListExtended\ProductsList\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FINKI\VP\Source\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsList.Form1.resources
+E:\FINKI\VP\Source\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsList.NewProduct.resources
+E:\FINKI\VP\Source\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsList.Properties.Resources.resources
+E:\FINKI\VP\Source\ProductsListExtended\ProductsList\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\FINKI\VP\Source\ProductsListExtended\ProductsList\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\FINKI\VP\Source\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsList.exe
+E:\FINKI\VP\Source\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsList.pdb
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\Lab4Resenie\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsList.exe
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\Lab4Resenie\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsList.pdb
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\Lab4Resenie\ProductsListExtended\ProductsList\bin\Debug\ProductsList.exe
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\Lab4Resenie\ProductsListExtended\ProductsList\bin\Debug\ProductsList.pdb
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\Lab4Resenie\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsListExtended.csprojResolveAssemblyReference.cache
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\Lab4Resenie\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsList.Form1.resources
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\Lab4Resenie\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsList.NewProduct.resources
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\Lab4Resenie\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsList.Properties.Resources.resources
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\Lab4Resenie\ProductsListExtended\ProductsList\obj\x86\Debug\ProductsListExtended.csproj.GenerateResource.Cache
